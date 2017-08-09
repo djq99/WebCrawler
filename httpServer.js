@@ -14,7 +14,7 @@ var db = mongoose.connection;
 var reference = require('./models/reference')
 
 
-var MAX_PAGES_TO_VISIT = 10000;
+var MAX_PAGES_TO_VISIT = 100;
 
 var pagesVisited = {};
 var numPagesVisited = 0;
