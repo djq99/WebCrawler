@@ -1,0 +1,17 @@
+{
+  "name": "webcrawler-nodejs",
+  "version": "0.0.0",
+  "description": "A simple webcrawler written in JavaScript",
+  "main": "server.js",
+  "author": "Jiaqi",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "body-parser": "~1.15.2",
+    "url-parse": "^1.0.5",
+    "express-handlebars" : "*",
+    "request": "^2.65.0",
+    "express": "~4.14.0",
+    "mongodb": "*",
+    "mongoose": "*"
+  }
+}
