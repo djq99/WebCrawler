@@ -14,11 +14,13 @@ http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/
 The key part is that a folder \data\db needs to be created.
 
 Run below commmand in terminal:
+
 npm install 
 
 
-To run the app: 
+To run the app:
 at the project directory, run:
+
 node node ./httpServer.js
 
 # About the project:
