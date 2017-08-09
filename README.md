@@ -17,7 +17,7 @@ Run below commmand in terminal:
 npm install 
 
 
-To run the app:
+To run the app: 
 at the project directory, run:
 node node ./httpServer.js
 
