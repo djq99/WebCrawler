@@ -23,6 +23,9 @@ at the project directory, run:
 
 node ./httpServer.js
 
+Open browser and type in:
+127.0.0.1:3000
+
 # About the project:
 There are 2 pages in the frontend(simple hbs files):
 1) input URL from user
