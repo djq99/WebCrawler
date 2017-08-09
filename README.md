@@ -40,3 +40,8 @@ First, I define a pagesVisited variable which will store the page I have visted 
 Second I define MAX_PAGES_TO_VISIT to 100 which will terminate the program when there are too many links and we still can not find the results.
 
 3) I also write a regular expression to ignore citations/sound/extraneous links.
+
+# something need to be done in the future:
+1) Seperate the HTTP server and crawl Server. Since HTTP Server cannot wait so long to get results.
+2) Build a good UI.
+3) More testing.
