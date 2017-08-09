@@ -1,11 +1,13 @@
 # WebCrawler
 A simple web crawler with nodejs, express and mongodb
 
-#How to run the code
+# How to run the code
 install node:
 https://nodejs.org/en/
+
 install mongo:
 https://www.mongodb.org/downloads
+
 mongo configuration:
 The last part of this page
 http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/
@@ -19,7 +21,7 @@ To run the app:
 at the project directory, run:
 node node ./httpServer.js
 
-#About the project:
+# About the project:
 There are 2 pages in the frontend(simple hbs files):
 1) input URL from user
 2) the results page
