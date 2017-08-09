@@ -24,6 +24,7 @@ at the project directory, run:
 node ./httpServer.js
 
 Open browser and type in:
+
 127.0.0.1:3000
 
 # About the project:
