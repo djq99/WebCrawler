@@ -21,7 +21,7 @@ npm install
 To run the app:
 at the project directory, run:
 
-node node ./httpServer.js
+node ./httpServer.js
 
 # About the project:
 There are 2 pages in the frontend(simple hbs files):
@@ -34,6 +34,7 @@ Backend(express framework,nodejs and mongodb):
 
 
 2) the crawl function is basically using BSF method. We maintain a queue for visiting links. To avoid stucking in a loop:
+
 First, I define a pagesVisited variable which will store the page I have visted and each time when a new link I try to visit, I will check if this page has already been visited or not.
 
 Second I define MAX_PAGES_TO_VISIT to 100 which will terminate the program when there are too many links and we still can not find the results.
